@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Домашняя работа к семинару 3. Массивы и функции в программировании/1.0.0": {
+        "runtime": {
+          "Домашняя работа к семинару 3. Массивы и функции в программировании.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Домашняя работа к семинару 3. Массивы и функции в программировании/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
